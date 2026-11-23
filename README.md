@@ -1,0 +1,2 @@
+# LKPD1
+Tugas LKPD 231126
