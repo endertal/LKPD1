@@ -1,2 +1,2 @@
 # LKPD1
-Tugas LKPD 231126 
+Tugas LKPD 23/11/26 
